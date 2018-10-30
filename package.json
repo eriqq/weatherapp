@@ -1,12 +1,13 @@
 {
   "name": "weatherapp_erik",
   "version": "0.1.0",
-  "homepage": "http://eriqq.github.io/weatherapp",
+  "homepage": "https://eriqq.github.io/weatherapp/",
   "dependencies": {
-    "react": "^16.3.2",
-    "react-dom": "^16.3.2",
-    "react-scripts": "1.1.4",
-    "react-toolbox": "^2.0.0-beta.12"
+    "ajv": "^6.5.4",
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0",
+    "react-scripts": "^1.1.4",
+    "react-toolbox": "^2.0.0-beta.13"
   },
   "scripts": {
     "predeploy": "npm run build",
@@ -18,7 +19,7 @@
     "generate": "rc-autocomplete"
   },
   "devDependencies": {
-    "gh-pages": "^1.2.0",
+    "gh-pages": "^2.0.1",
     "react-autocomplete-cli": "0.0.3"
   }
 }
